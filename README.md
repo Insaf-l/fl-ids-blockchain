@@ -638,7 +638,7 @@ lsof -i :8545
 |-----|--------|
 | Khadija Izarzar | `@khadija-izarzar` |
 | Insaf Lachgar | `@insaf-l` |
-| Soumya Ihmouten | `@soumya-ihmouten` |
+| Soumya Ihmouten | `@soumya06ih` |
 
 ---
 
