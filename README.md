@@ -18,7 +18,7 @@ Le système intègre aussi une défense contre les comportements byzantins/adver
 ## Structure du projet
 
 ```text
-fl_project/
+fl-ids-blockchain/
 │
 ├── fl/                          # Cœur du système Federated Learning
 │   ├── peer.py                  # Peer honnête : entraînement local + rounds FL
@@ -73,7 +73,7 @@ fl_project/
 
 ```bash
 git clone <URL_DU_REPO>
-cd fl_project
+cd fl-ids-blockchain
 ```
 
 ### 2. Installer les outils système
