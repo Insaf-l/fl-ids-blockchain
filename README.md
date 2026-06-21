@@ -650,7 +650,7 @@ git push -u origin main
 | Nom | GitHub |
 |-----|--------|
 | Khadija Izarzar | `@khadija-izarzar` |
-| Insaf Lachgar | `@insaf-lachgar` |
+| Insaf Lachgar | `@insaf-l` |
 | Soumya Ihmouten | `@soumya-ihmouten` |
 
 ---
