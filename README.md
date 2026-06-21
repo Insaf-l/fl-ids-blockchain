@@ -632,19 +632,6 @@ lsof -i :8545
 
 ---
 
-## Création du repo Git
-
-```bash
-git init
-git add .
-git commit -m "Initial commit"
-git branch -M main
-git remote add origin <URL_DU_REPO>
-git push -u origin main
-```
-
----
-
 ## Auteurs
 
 | Nom | GitHub |
