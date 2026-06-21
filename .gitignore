@@ -1,0 +1,56 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+.venv/
+venv/
+env/
+ENV/
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Jupyter / IDE
+.ipynb_checkpoints/
+.vscode/
+.idea/
+
+# Environment variables / secrets
+.env
+.env.*
+!.env.example
+
+# Logs and generated FL outputs
+logs/
+*.log
+fl_results_peer*.json
+fl_results_peer*_malicious.json
+fl_results.json
+attack_log.json
+blockchain_config.json
+blacklist_state.json
+
+# Generated dashboard
+/dashboard.html
+
+# Node / Hardhat
+blockchain/node_modules/
+blockchain/artifacts/
+blockchain/cache/
+blockchain/typechain-types/
+blockchain/coverage/
+blockchain/coverage.json
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Archives
+*.zip
+*.7z
+*.rar
+*.tar
+*.tar.gz
